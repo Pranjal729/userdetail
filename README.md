@@ -24,3 +24,9 @@ React
 Redux
 Lodash
 Axios
+
+# output
+
+
+https://user-images.githubusercontent.com/125556024/234642894-8b01371d-6b04-4ccc-bf05-f4ae50fa1e99.mp4
+
